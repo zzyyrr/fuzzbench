@@ -116,3 +116,18 @@ a new benchmark.
 
 Please [file an issue on GitHub](https://github.com/google/fuzzbench/issues/new)
 or send a pull request fixing the problem.
+
+## How can I cite FuzzBench in my paper?
+
+You can use the following BibTeX entry:
+{% raw %}
+```
+@misc{fuzzbench,
+    author       = {Google},
+    title        = {{FuzzBench: Fuzzer Benchmarking As a Service}},
+    year         = {2020},
+    publisher    = {GitHub},
+    howpublished = {\url{https://github.com/google/fuzzbench}},
+}
+```
+{% endraw %}
